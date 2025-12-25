@@ -3,6 +3,8 @@ import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Special
 import { Navbar } from './components';
 import React from 'react';
 
+
+
 function App() {
   return (
     <div>
