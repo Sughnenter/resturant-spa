@@ -32,8 +32,7 @@ function Gallery() {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Every dish tells a story, and every plate is a work of art. Browse our gallery to see the passion and creativity we pour into each meal we serve.
         </p>
         <button type="button" className="custom__button">
           View More

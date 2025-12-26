@@ -18,16 +18,12 @@ function Chef() {
           <div className="app__chef-content_quote">
             <img src={images.quote} alt="quote_image" />
             <p className="p__opensans">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit
-              .
+              I'm Kevin, head chef and founder, committed to sharing
+              unforgettable experiences through food
             </p>
           </div>
           <p className="p__opensans">
-            {" "}
-            auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget
-            sit. Nulla scelerisque scelerisque congue ac consequat, aliquam
-            molestie lectus eu. Congue iaculis integer curabitur semper sit
-            nunc.{" "}
+            Fine dining should be for everyone—delicious, accessible, and memorable. Our dishes are crafted with care and priced so you can enjoy them again and again. Come grab a bite. You'll love it
           </p>
         </div>
 
