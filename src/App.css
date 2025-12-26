@@ -53,7 +53,7 @@
 }
 
 .custom__button {
-  background-color: var(--color-crimson);
+  background-color: var(--color-golden);
   color: var(--color-black);
   font-family: var(--font-base);
   font-weight: 700;
@@ -66,9 +66,7 @@
   outline: none;
   cursor: pointer;
 }
-.custom__button:hover {
-  background-color: var(--color-golden);
-}
+
 .custom__button:active {
   opacity: 0.3;
   transition: 0.5s ease;
